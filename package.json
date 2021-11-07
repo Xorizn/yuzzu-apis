@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YuzzuKamiyaka/yuzzu-apis.git"
+    "url": "git+https://github.com/SOBATGAMER/yuzzu-apis.git"
   },
   "keywords": [
     "ANAKNGEN"
   ],
-  "author": "YuzzuKamiyaka",
+  "author": "AGUS",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/YuzzuKamiyaka/yuzzu-apis/issues"
+    "url": "https://github.com/SOBATGAMER/yuzzu-apis/issues"
   },
-  "homepage": "https://github.com/YuzzuKamiyaka/yuzzu-apis#readme",
+  "homepage": "https://github.com/SOBATGAMER/yuzzu-apis#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.10",
